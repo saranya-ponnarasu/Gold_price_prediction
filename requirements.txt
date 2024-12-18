@@ -16,6 +16,6 @@ python-dotenv
 pytest
 s3fs
 boto3
-stat
 statsmodels
 joblib
+streamlit
