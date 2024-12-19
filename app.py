@@ -4,7 +4,7 @@ import pandas as pd
 import datetime as dt
 
 # Load the pre-trained SARIMA model
-model = joblib.load('gold_price_model.pkl')
+model = joblib.load('final_arima_model.pkl')
 
 # Title of the app
 st.title("Gold Price Prediction App")
